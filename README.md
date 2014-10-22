@@ -1,4 +1,4 @@
-PraticasIS
+PracticasIS
 ==========
 
 Prácticas de Ingeniería del Software
